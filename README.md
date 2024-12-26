@@ -1,6 +1,6 @@
 # My-Blog-2024 🚀
 **Note - All the project repositories are available on github**
-<u> </u>
+
 Lets talk about the projects <br>
 1. Project 1- MuseSnap🎼 - Music app - where you can upload screenshots of any random musician - which you saw on instagram reels<br> or shorts,
    the AI (for now imagga API) will help you recognize the musician and recommend you their playlist (used another API).
