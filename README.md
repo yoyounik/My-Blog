@@ -6,8 +6,9 @@ Lets talk about the projects <br>
    the AI (for now imagga API) will help you recognize the musician and recommend you their playlist (used another API).
 2. Project 2- Gen AI image generation using pytorch - this project is one of my biggest project to start off with GEN AI , understanding<br>
    the generator and discriminator and all about how they have neural networks which can be used to generate image.
+3. Project 3 - Working on full stack real time chatting app using websocket - backend work going on....
 
-3. Then there were many other projects which i worked on - especially OLLAMA - which was used to run LLMs locally on my machine and <br>
+4. Then there were many other projects which i worked on - especially OLLAMA - which was used to run LLMs locally on my machine and <br>
    generate response on how to build a god resume in my AI Resume builder project.
 
 
