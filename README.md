@@ -23,3 +23,10 @@ Lets talk about the projects <br>
 Participated in HackFrost 2024, came in the top 20 members for the Hackfrost promotional event on twitter and linkedin.
 
 
+**Java Revision**
+1. Created immutable class in java - asked in interviews , immutable means - its value cannot be changed.
+<img width="528" alt="{B345CD59-E4F0-4A4A-986A-035B87D76FBD}" src="https://github.com/user-attachments/assets/8b32f8ea-e12b-49dd-a706-01df577b4e85" />
+<img width="827" alt="{E4C1AC64-EE31-4CDF-8BAD-928EFBA0E757}" src="https://github.com/user-attachments/assets/28280def-d2d3-40db-9bcb-6b7ad70b4ef6" />
+Note- As you can see in the image the changed value of id is not shown - it prooves the immutability in java class created.
+
+
