@@ -1,4 +1,4 @@
-# My-Blog-2024 🚀
+# My-Daily-Blog 🚀
 **Note - All the project repositories are available on github**
 
 Lets talk about the projects <br>
