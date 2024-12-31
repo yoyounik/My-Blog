@@ -29,8 +29,8 @@ Participated in HackFrost 2024, came in the top 20 members for the Hackfrost pro
 <img width="827" alt="{E4C1AC64-EE31-4CDF-8BAD-928EFBA0E757}" src="https://github.com/user-attachments/assets/28280def-d2d3-40db-9bcb-6b7ad70b4ef6" /> <br>
 Note- As you can see in the image the changed value of id is not shown - it prooves the immutability in java class created.
 
-**DSA**
-Arrays - 3 medium level question solved:
+**DSA** <br>
+Arrays - 3 medium level question solved:<br>
 ![image](https://github.com/user-attachments/assets/929d31eb-3162-47ed-8605-2c7f4a01e474)
 
 
