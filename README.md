@@ -7,7 +7,7 @@ Lets talk about the projects <br>
 2. Project 2- Gen AI image generation using pytorch - this project is one of my biggest project to start off with GEN AI , understanding<br>
    the generator and discriminator and all about how they have neural networks which can be used to generate image.
 3. Project 3 - Working on full stack real time chatting app using websocket - backend work going on....
-   Update -  Created Rest APIs for chat room and testing them using POSTMAN.
+   Update -  Created Rest APIs for chat room and testing them using POSTMAN - facing lombok error and trying my best to resolve it asap.
    Tomorrow - learning websockets.
 
 5. Then there were many other projects which i worked on - especially OLLAMA - which was used to run LLMs locally on my machine and <br>
