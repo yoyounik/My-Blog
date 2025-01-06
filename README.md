@@ -35,5 +35,9 @@ Note- As you can see in the image the changed value of id is not shown - it proo
 Arrays - 3 medium level question solved:<br>
 ![image](https://github.com/user-attachments/assets/929d31eb-3162-47ed-8605-2c7f4a01e474)
 
+**Docker**
+1. Created custom images and ran container based on it.
+2. Images are Read Only , learnt about different layers of images.
+
 
 
