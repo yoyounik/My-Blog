@@ -38,6 +38,8 @@ Arrays - 3 medium level question solved:<br>
 **Docker**
 1. Created custom images and ran container based on it.
 2. Images are Read Only , learnt about different layers of images.
+3. ![image](https://github.com/user-attachments/assets/57362f03-c723-4906-ad11-aead34574955)
+
 
 
 
