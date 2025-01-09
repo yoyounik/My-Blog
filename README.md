@@ -39,9 +39,17 @@ Note- As you can see in the image the changed value of id is not shown - it proo
    <br>
 
    #Real life example of daemon thread:<br>
-   1.1 Auto-Save feature in Document Editor.
-   1.2 In document editor application like MS Word or Google Docs, an auto-save feature is oftern implemented.
-   1.3 
+   1.1 Auto-Save feature in Document Editor. <br>
+   1.2 In document editor application like MS Word or Google Docs, an auto-save feature is oftern implemented. <br>
+   1.3 here main is the user thread, and setDaemon in main marks the thread as daemon thread. <br>
+   1.4 Auto save happens as long as the main(user) thread is alive.<br>
+   1.5 Once main (user) thread ends, the JVM also terminates the daemon thread. <br>
+
+   <b>code for Auto Saving documents: <br>
+<img width="377" alt="{B327C934-2E94-400A-A3C1-0D86E8E110B4}" src="https://github.com/user-attachments/assets/c93dc9eb-0cda-4c15-bbc1-8cbed70c3048" /> <br>
+<img width="402" alt="{11BED15F-D79F-4BD3-837D-6CCB3CCD44A6}" src="https://github.com/user-attachments/assets/d2d206de-519c-4d6f-96a2-083b29fde669" />
+
+
 
 
 
