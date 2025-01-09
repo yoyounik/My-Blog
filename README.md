@@ -31,6 +31,20 @@ Participated in HackFrost 2024, came in the top 20 members for the Hackfrost pro
 <img width="827" alt="{E4C1AC64-EE31-4CDF-8BAD-928EFBA0E757}" src="https://github.com/user-attachments/assets/28280def-d2d3-40db-9bcb-6b7ad70b4ef6" /> <br>
 Note- As you can see in the image the changed value of id is not shown - it prooves the immutability in java class created.
 
+2. Got to know how thread scheduler works and all about premptive and non premptive scheduling algorithm:<br>
+   <img width="508" alt="image" src="https://github.com/user-attachments/assets/9d6e37dd-76e9-4c94-b386-83717c1c1b9b" />
+3. Daemon Thread - It is a service provider thread for the user thread.
+   Two most important methods in it: <br>
+   <img width="522" alt="image" src="https://github.com/user-attachments/assets/99ba1e83-1319-45e0-b589-7f2910b4062e" />
+   <br>
+
+   #Real life example of daemon thread:<br>
+   1.1 Auto-Save feature in Document Editor.
+   1.2 In document editor application like MS Word or Google Docs, an auto-save feature is oftern implemented.
+   1.3 
+
+
+
 **DSA** <br>
 Arrays - 3 medium level question solved:<br>
 ![image](https://github.com/user-attachments/assets/929d31eb-3162-47ed-8605-2c7f4a01e474)
