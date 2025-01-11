@@ -64,6 +64,9 @@ Strings - 1 Medium - Zigzag conversion
 2. Images are Read Only , learnt about different layers of images.
 3. ![image](https://github.com/user-attachments/assets/57362f03-c723-4906-ad11-aead34574955)
 
+**GEN AI**
+1. Revised basics of python - tuples, dictionaly, OOP's concept.
+
 
 
 
