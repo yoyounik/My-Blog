@@ -66,7 +66,7 @@ Strings - 1 Medium - Zigzag conversion
 
 **GEN AI**
 1. Revised basics of python - tuples, dictionaly, OOP's concept.
-
+2. Learnt about packages and modules in python , then got to know how to create custom packages and also learnt about streamlit and how you can use it to develop web application so fast.
 
 
 
